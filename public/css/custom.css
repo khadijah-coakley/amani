@@ -1,1 +1,6 @@
 /* This stylesheet is meant for custom styles, on top of The 8 Template */
+
+
+.g-background-default {
+    background-color: #fff;
+}
